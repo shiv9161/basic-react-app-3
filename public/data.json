@@ -1,65 +1,62 @@
-{
-    "foods": [
-      {
-        "name": "Margherita Pizza",
-        "description": "A classic Italian pizza topped with tomato, mozzarella cheese, and fresh basil leave.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 9.99
-      },
-      {
-        "name": "Chicken Tikka Masala",
-        "description": "A popular Indian dish made with tender pieces of chicken cooked in a creamy tomato-.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 12.50
-      },
-      {
-        "name": "Caesar Salad",
-        "description": "A refreshing salad made with romaine lettuce, croutons, parmesan cheese, and Caesar.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 8.99
-      },
-      {
-        "name": "Sushi Roll Combo",
-        "description": "A selection of assorted sushi rolls including California, spicy tuna, and salmon avo.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 15.99
-      },
-      {
-        "name": "Cheeseburger",
-        "description": "A classic American cheeseburger served with lettuce, tomato, onion, pickles, and your.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 11.49
-      },
-      {
-        "name": "Pasta Carbonara",
-        "description": "An Italian pasta dish made with spaghetti, eggs, cheese, pancetta, and black pepper.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 10.99
-      },
-      {
-        "name": "Vegetable Stir Fry",
-        "description": "A healthy stir-fry dish made with a variety of fresh vegetables and served with ric.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 9.75
-      },
-      {
-        "name": "Mango Sticky Rice",
-        "description": "A popular Thai dessert made with ripe mangoes and sweet sticky rice, drizzled with.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 6.99
-      },
-      {
-        "name": "BBQ Ribs",
-        "description": "Tender pork ribs slow-cooked to perfection and glazed with tangy barbecue sauce.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 14.99
-      },
-      {
-        "name": "Chocolate Fondue",
-        "description": "A decadent dessert featuring melted chocolate served with a variety of dipping items.",
-        "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
-        "price": 9.25
-      }
-    ]
+[
+  {
+    "name": "Margherita Pizza",
+    "description": "A classic Italian pizza topped with tomato, mozzarella cheese, and fresh basil leave.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 9.99
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "A popular Indian dish made with tender pieces of chicken cooked in a creamy tomato-.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 12.50
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "A refreshing salad made with romaine lettuce, croutons, parmesan cheese, and Caesar.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 8.99
+  },
+  {
+    "name": "Sushi Roll Combo",
+    "description": "A selection of assorted sushi rolls including California, spicy tuna, and salmon avo.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 15.99
+  },
+  {
+    "name": "Cheeseburger",
+    "description": "A classic American cheeseburger served with lettuce, tomato, onion, pickles.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 11.49
+  },
+  {
+    "name": "Pasta Carbonara",
+    "description": "An Italian pasta dish made with spaghetti, eggs, cheese, pancetta, and black pepper.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 10.99
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "description": "A healthy stir-fry dish made with a variety of fresh vegetables and served with ric.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 9.75
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "description": "A popular Thai dessert made with ripe mangoes and sweet sticky rice, drizzled with.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 6.99
+  },
+  {
+    "name": "BBQ Ribs",
+    "description": "Tender pork ribs slow-cooked to perfection and glazed with tangy barbecue sauce.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 14.99
+  },
+  {
+    "name": "Chocolate Fondue",
+    "description": "A decadent dessert featuring melted chocolate served with a variety of dipping items.",
+    "image": "https://t3.ftcdn.net/jpg/05/60/70/82/360_F_560708240_pMZPOuSfvblWGRoaiZFLT4wiFTzQPwQe.jpg",
+    "price": 9.25
   }
-  
+]
