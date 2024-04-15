@@ -1,7 +1,10 @@
 const BottomNav = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-light">
+      <nav
+        className="navbar navbar-expand-lg navbar-light"
+        style={{ backgroundColor: "#f0f0f0" }}
+      >
         <div className="container">
           {/* <!-- Logo (Replace 'Your Logo' with your actual logo image source) --> */}
           {/* <a className="navbar-brand" href="#">
