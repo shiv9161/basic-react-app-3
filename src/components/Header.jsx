@@ -1,4 +1,9 @@
-const Header = () => {
+// import { useState } from "react";
+
+const Header = (props) => {
+  // const [filterData, setFilterData] = useState(null);
+  // const { searchQuery, handleSearchChange } = props;
+
   return (
     <>
       <nav
@@ -16,12 +21,11 @@ const Header = () => {
             <input
               className="form-control me-2"
               type="search"
+              // value={searchQuery}
+              // onChange={handleSearchChange}
               placeholder="Search"
               aria-label="Search"
             />
-            <button className="btn btn-outline-primary" type="submit">
-              Search
-            </button>
           </form>
         </div>
       </nav>
